@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9243-E577
+
+ Directory of C:\Users\I'm_Nou$heen\Desktop\Project1
+
+20-06-2020  11:54    <DIR>          .
+20-06-2020  11:54    <DIR>          ..
+20-06-2020  11:54                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  199,993,917,440 bytes free
